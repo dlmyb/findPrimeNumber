@@ -6,4 +6,4 @@
 * 每个线程自动生成单独的 txt 文件记录质数。
 * 对全程计时，可以用于测试 CPU 性能。
 
-有问题，请发送邮件至[mayinbing12@gmail.com](mailto:mayinbing12@gmail.com)，请
+有问题，请发送邮件至[mayinbing12@gmail.com](mailto:mayinbing12@gmail.com)，请注明意图和身份。
