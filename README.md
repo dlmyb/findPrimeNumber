@@ -6,7 +6,7 @@
 * 每个线程自动生成单独的 txt 文件记录质数。
 * 对全程计时，可以用于测试 CPU 性能。
 
-有问题，请发送邮件至[mayinbing12@gmail.com](mailto:mayinbing12@gmail.com)，请注明意图和身份。
+有问题，请发送邮件至[me@yinbin.ma](mailto:me@yinbin.ma)，请注明意图和身份。
 
 ---
 
@@ -19,3 +19,11 @@ findPrimeNumber.py 是那个时候写的,而 newPrime.py 是现在写的.
 还是那个意图,仅供初学者和爱好者分享学习.
 
 2016.12.15
+
+---
+
+刚好学 Go 了,也顺手写了个找质数,还没用上 goroutine...
+
+也顺手贴上来吧...
+
+以后就拿 找质数 练手了...
